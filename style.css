@@ -1,0 +1,28 @@
+
+#square{
+    height: 330px;
+    width:115px;
+    border: 3p6 x solid black;
+    margin: 20px;
+    padding: 30px;
+    
+   
+    
+}
+.signal{
+    
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color:green;
+    margin: 4px;
+    border: 3px solid black;
+
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+
+}
